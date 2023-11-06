@@ -2,7 +2,7 @@
 
 **Database Name: schooligniter**
 
-**Developed by Abu Jamil Faisal Shuvo, BUBT**
+**Developed by Abu Jamil Faisal Shuvo , BUBT**
 
 **Recommended PHP Version 5.6**
 
